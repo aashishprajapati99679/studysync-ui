@@ -1,4 +1,11 @@
 
+## Live Demo
+
+ Experience the project live:  
+ https://studysync-ui-virid.vercel.app/
+
+> Deployed using Vercel
+
 ## Key Highlights
 
 - Fully responsive layout using Flexbox and Grid
